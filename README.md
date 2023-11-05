@@ -1,3 +1,3 @@
 # VBA-challenge
-Obtained help from this code from a tutor. 
+Obtained help for this code from a UofT tutor. 
 Obtained help from peers, youtube videos and AskBCS.
