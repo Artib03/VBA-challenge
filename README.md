@@ -14,6 +14,6 @@ Obtained help from peers, youtube videos and AskBCS.
 11. Found the percentage by using a formula and multipled it by 100
 12. Conditionally formatted the percentages and opening year values
 13. Found the maximam and minimum percentages in the percentage column
-14. used teh max and min function from Microsoft documentation
+14. used the max and min function from Microsoft documentation
 15. Found the matching ticker values by using the match function from Microsoft documentation
 16. looped through the data to copy the data to other spreadsheets in the workbook
