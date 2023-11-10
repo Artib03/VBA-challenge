@@ -17,3 +17,5 @@ Obtained help from peers, youtube videos and AskBCS.
 14. Used the max and min function from Microsoft documentation
 15. Found the matching ticker values by using the match function from Microsoft documentation
 16. Looped through the data to copy the data to other spreadsheets in the workbook
+
+Important note: Tried running code on larger data set, thus informed instructor and TAs. Have uploaded the code and the screenshots from the smaller data set.
