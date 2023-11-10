@@ -18,4 +18,4 @@ Obtained help from peers, youtube videos and AskBCS.
 15. Found the matching ticker values by using the match function from Microsoft documentation
 16. Looped through the data to copy the data to other spreadsheets in the workbook
 
-Important note: Tried running code on larger data set, thus informed instructor and TAs. Have uploaded the code and the screenshots from the smaller data set.
+Important note: Tried running code on larger data set but the code is not working on the larger set due to technicalities, thus informed instructor and TAs. Have uploaded the code and the screenshots from the smaller data set.
